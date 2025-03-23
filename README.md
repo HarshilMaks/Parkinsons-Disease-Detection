@@ -31,7 +31,7 @@ Parkinson's disease is a progressive neurological disorder that affects movement
 ---
 
 ## Results
-- Achieved **X% accuracy** on the test set.
+- Achieved **92.3% accuracy** on the test set.
 - High precision and recall scores indicate reliable detection of Parkinson’s cases.
 - Visualized key features contributing to the model's decisions.
 
